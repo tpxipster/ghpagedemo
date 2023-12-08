@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 小米Note 10 評測：難怪可以殺下華為Mate 30
 
 ![](../_resources/f1dcdb2e8a41af32762b0cb8e37d8d69.jpg)
@@ -125,3 +129,7 @@
 ![](../_resources/10c051009e6cd440eccf41017a99e4b3.jpg)
 
 即使在低光下亦可以無明顯雜訊，色彩表現理想，而且銳利十足。
+
+_yay_
+
+[back](./)
