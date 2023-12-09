@@ -4,3 +4,7 @@ Gemfile.lock
 *.gem
 .jekyll-cache/
 .jekyll-cache
+
+vx.json
+vx_notebook
+vx_notebook/
